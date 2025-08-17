@@ -1,17 +1,17 @@
 # 📄 Informe Técnico del Taller
 
 ## 🔖 Nombre del Taller
-_Taller X - [Nombre completo del taller]_
+Taller 1- BPMN
 
 ## 👥 Integrantes del equipo
-- Nombre 1 (correo o usuario GitHub)
-- Nombre 2
-- Nombre 3
+- Sergio Socha
+- Nicolas Rodriguez
+- Julián Pinilla
 
 ## 🧠 Descripción general del trabajo
-Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
-
+Se realiza un modelo BPMN de el proceso de automatización que tiene implementado la fundación Builders Transform, donde personaliza los correos enviados de parte de la fundación, a los posibles participantes, que tienen que seguir un flujo de inscripción, pago y admisión.
 ## 🔧 Proceso de desarrollo
+
 Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas utilizaron, qué aspectos modelaron primero y cómo lo fueron ajustando.
 
 ## 🧩 Análisis del modelo propuesto
@@ -21,13 +21,13 @@ Incluya un análisis sobre:
 - Qué supuestos se tomaron
 
 ## 📈 Diagrama final entregado
-> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
+[text](<BPMN – Automatización de correos: Preinscripción y Admisión.pdf>)
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
 
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---------------------|------|-------------|-------------|
-| Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
+| Ej: Participante    | Actor | Usuario que agenda una cita médica | Cliente |
 
 ## 🔍 Investigación complementaria
 ### Tema investigado:
